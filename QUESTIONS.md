@@ -1,6 +1,6 @@
 # Questions
 
-* Credit: [Kalvin](https://www.linkedin.com/in/hikalvin/)
+* Credit:[KLVN](https://www.linkedin.com/in/hikalvin/)
     * Makanan favorit lo apa?
     * Lo tim kopi atau tim teh?
     * Lo lebih suka begadang atau bangun pagi?
