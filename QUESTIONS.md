@@ -1,6 +1,6 @@
 # Questions
 
-* Credit: [Outbackteambuilding.com](https://www.outbackteambuilding.com/blog/team-building-questions-icebreakers/)
+* Credit: [Kalvin](https://www.linkedin.com/in/hikalvin/)
 * Makanan favorit lo apa?
 * Lo tim kopi atau tim teh?
 * Lo lebih suka begadang atau bangun pagi?
