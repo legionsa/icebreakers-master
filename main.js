@@ -76,3 +76,131 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 });
+// ---------------- Share configuration ----------------
+const CREDIT_NAME = 'Kalvin';
+const CREDIT_URL  = 'https://www.linkedin.com/in/hikalvin/';
+const WATERMARK_1 = `Iseng2nya ${CREDIT_NAME} — ${CREDIT_URL}`;
+const WATERMARK_2 = 'KnowBetter based on Icebreakers';
+
+// Which element to capture:
+const CAPTURE_SELECTOR = 'main'; // or '#question-display' if you only want the text bubble
+
+// -----------------------------------------------------
+
+function getComputedBgColor(el) {
+  const bg = getComputedStyle(el).backgroundColor;
+  // fallback to body if transparent
+  if (!bg || bg === 'rgba(0, 0, 0, 0)' || bg === 'transparent') {
+    return getComputedStyle(document.body).backgroundColor || '#ffffff';
+  }
+  return bg;
+}
+
+async function captureShareImage() {
+  const target = document.querySelector(CAPTURE_SELECTOR) || document.body;
+
+  const bgColor = getComputedBgColor(target);
+  const scale = window.devicePixelRatio > 1 ? 2 : 1;
+
+  const canvas = await html2canvas(target, {
+    backgroundColor: bgColor || '#ffffff',
+    scale
+  });
+
+  // Draw watermarks/text onto the canvas
+  const ctx = canvas.getContext('2d');
+  const padding = Math.round(16 * scale);
+  const lineGap = Math.round(8 * scale);
+
+  // Base font sizes
+  const fontSmall = Math.max(12 * scale, 14);
+  const fontTiny  = Math.max(10 * scale, 12);
+
+  // Semi-opaque white bg strip to improve readability on dark themes
+  const stripHeight = padding * 2 + fontSmall + lineGap + fontTiny;
+  ctx.fillStyle = 'rgba(255,255,255,0.85)';
+  ctx.fillRect(0, canvas.height - stripHeight, canvas.width, stripHeight);
+
+  // Text styles
+  ctx.fillStyle = '#000';
+  ctx.textBaseline = 'alphabetic';
+
+  // Line 1: Iseng2nya + link
+  ctx.font = `bold ${fontSmall}px system-ui, -apple-system, Segoe UI, Roboto, Arial`;
+  ctx.fillText(WATERMARK_1, padding, canvas.height - padding - fontTiny - lineGap);
+
+  // Line 2: KnowBetter based on Icebreakers
+  ctx.font = `normal ${fontTiny}px system-ui, -apple-system, Segoe UI, Roboto, Arial`;
+  ctx.fillText(WATERMARK_2, padding, canvas.height - padding);
+
+  const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/png', 1));
+  const file = new File([blob], 'icebreaker.png', { type: 'image/png' });
+  return { blob, file };
+}
+
+function downloadBlob(blob, filename) {
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+}
+
+function openLinkedInShare(pageUrl) {
+  const shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(pageUrl)}`;
+  window.open(shareUrl, '_blank', 'noopener,noreferrer');
+}
+
+async function shareQuestion() {
+  const questionEl = document.getElementById('question-display');
+  const questionText = (questionEl?.innerText || '').trim();
+  const pageUrl = location.href;
+
+  try {
+    const { blob, file } = await captureShareImage();
+
+    // Web Share API with files (best on Android Chrome)
+    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      await navigator.share({
+        files: [file],
+        title: 'Icebreaker',
+        text: questionText || 'Icebreaker question',
+      });
+      return;
+    }
+
+    // Fallback: open LinkedIn share for your page, download image for IG Story
+    openLinkedInShare(pageUrl);
+    downloadBlob(blob, 'icebreaker.png');
+    alert(
+      "We opened LinkedIn’s share in a new tab.\n\n" +
+      "Instagram Story doesn’t accept direct web posting everywhere. " +
+      "We downloaded the image for you—open Instagram and add it to your Story."
+    );
+  } catch (err) {
+    console.error('Share failed:', err);
+    alert('Sharing failed. Please try again or save the image and share it manually.');
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  // Enforce the credit footer consistently
+  const creditEl = document.getElementById('credit-link');
+  if (creditEl) {
+    creditEl.href = CREDIT_URL;
+    creditEl.textContent = CREDIT_NAME;
+    creditEl.rel = 'noopener noreferrer';
+    creditEl.target = '_blank';
+  }
+
+  const shareLink = document.getElementById('post-link');
+  if (shareLink) {
+    shareLink.addEventListener('click', (e) => {
+      e.preventDefault();
+      shareQuestion();
+    });
+  }
+});
