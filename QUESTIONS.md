@@ -219,27 +219,17 @@
 * Kalau hasil usability test gagal, lo lebih pilih iterasi cepat atau reset total desain?
 * Mending dapet partner developer yang kritis soal detail desain atau yang nurut semua aja?
 * Lebih seru kerja bareng tim yang sering debat ide atau tim yang cenderung harmonis?
-Lo lebih pilih jadi problem solver di tim atau jadi orang yang jago nge-visual-in ide?
-
-Mending ada satu orang UX researcher khusus atau semua anggota tim ikut riset?
-
-Lebih gampang align visi desain lewat Figma file detail atau workshop bareng whiteboard?
-
-Lo lebih suka daily standup singkat atau weekly catch-up yang lebih dalam?
-
-Kalau deadline mepet, lo lebih pilih cut scope fitur atau push jam kerja lebih lama?
-
-Mending satu style guide ketat atau desain fleksibel sesuai kreativitas tiap anggota?
-
-Lebih nyaman handle banyak stakeholder dengan ekspektasi beda-beda atau satu stakeholder tapi sering berubah pikiran?
-
-Lo lebih pilih kerja remote lintas zona waktu atau onsite bareng tiap hari?
-
-Mending punya tim yang jago riset tapi visual biasa aja, atau tim yang visual keren tapi minim riset?
-
-Lebih seru kolaborasi lintas divisi (marketing, sales, CS) atau fokus di tim produk aja?
-
-Kalau ada ide baru, lo lebih pilih prototyping cepat buat validasi atau diskusi panjang dulu di tim?
+* Lo lebih pilih jadi problem solver di tim atau jadi orang yang jago nge-visual-in ide?
+* Mending ada satu orang UX researcher khusus atau semua anggota tim ikut riset?
+* Lebih gampang align visi desain lewat Figma file detail atau workshop bareng whiteboard?
+* Lo lebih suka daily standup singkat atau weekly catch-up yang lebih dalam?
+* Kalau deadline mepet, lo lebih pilih cut scope fitur atau push jam kerja lebih lama?
+* Mending satu style guide ketat atau desain fleksibel sesuai kreativitas tiap anggota?
+* Lebih nyaman handle banyak stakeholder dengan ekspektasi beda-beda atau satu stakeholder tapi sering berubah pikiran?
+* Lo lebih pilih kerja remote lintas zona waktu atau onsite bareng tiap hari?
+* Mending punya tim yang jago riset tapi visual biasa aja, atau tim yang visual keren tapi minim riset?
+* Lebih seru kolaborasi lintas divisi (marketing, sales, CS) atau fokus di tim produk aja?
+* Kalau ada ide baru, lo lebih pilih prototyping cepat buat validasi atau diskusi panjang dulu di tim?
 * Lebih nyaman dapet brief proyek lengkap di awal atau update bertahap sepanjang jalan?
 * Kalau ada dua solusi desain sama bagusnya, lo lebih pilih A/B testing atau diskusi tim?
 * Mending dapet apresiasi langsung dari user atau pengakuan dari manajemen?
@@ -250,3 +240,23 @@ Kalau ada ide baru, lo lebih pilih prototyping cepat buat validasi atau diskusi 
 * Kalau ada feature creep, lo lebih pilih challenge PM atau adaptasi desain?
 * Mending tim kecil sering sync harian atau tim gede sync mingguan?
 * Lebih nyaman dapet feedback via comment Figma atau presentasi langsung di meeting?
+* Lebih pilih investasi di Bitcoin atau Ethereum?
+* Mending trading harian atau HODL jangka panjang?
+* Lebih rame komunitas crypto di Twitter atau Telegram?
+* Lo lebih percaya analisis teknikal charting atau fundamental project?
+* Mending ikut hype meme coin atau fokus ke project DeFi serius?
+* Lebih worth coba staking atau mining?
+* Lo lebih pilih NFT art atau NFT game?
+* Mending belajar crypto dari YouTube influencer lokal atau forum internasional?
+* Lebih deg-degan market crash atau FOMO pas harga terbang?
+* Lo lebih pilih pake exchange lokal atau internasional buat trading?
+* Lebih enak sarapan bubur diaduk atau nggak diaduk?
+* Mending makan nasi Padang langsung di warung atau bungkus pakai kertas cokelat?
+* Lebih segar es kelapa muda atau es cendol pas siang terik?
+* Lo lebih pilih sate ayam Madura atau sate kambing Tegal?
+* Mending jajan pecel lele tenda biru atau fast food internasional?
+* Lebih nagih keripik pedas level tinggi atau kerupuk putih renyah?
+* Lo lebih pilih bakso urat atau bakso telur?
+* Mending ngemil martabak manis atau terang bulan kekinian?
+* Lebih ikonik rendang Padang atau gudeg Jogja?
+* Lo lebih suka makan di kaki lima rame atau restoran fancy?
