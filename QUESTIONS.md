@@ -1,7 +1,7 @@
 # Questions
 
 * Credit: [Outbackteambuilding.com](https://www.outbackteambuilding.com/blog/team-building-questions-icebreakers/)
-  * Makan favorit lo apa?
+* Makanan favorit lo apa?
 * Lo tim kopi atau tim teh?
 * Lo lebih suka begadang atau bangun pagi?
 * Kalo bisa punya superpower, maunya apa?
@@ -121,95 +121,16 @@
 * Kalo bisa bikin hari libur baru, mau ngerayain apa?
 * Mau tinggal di dunia novel/film mana?
 * Kalo bisa bikin wahana seru di Dufan, bentuknya kayak gimana?
-* Apakah makan mie instan tiap hari bikin bosan?
-* Apakah hujan bikin lo lebih produktif?
-* Apakah kerja bareng temen lebih seru daripada kerja sendiri?
-* Apakah liburan pendek lebih enak daripada liburan panjang?
-* Apakah jajan kopi tiap hari boros atau worth it?
-* Apakah tidur siang bikin energi balik full?
-* Apakah olahraga pagi bikin mood naik?
-* Apakah punya playlist kerja wajib banget?
-* Apakah deadline bikin lo lebih fokus?
-* Apakah kerja malam lebih efektif buat lo?
-* Apakah main futsal kantor bikin bonding makin kuat?
-* Apakah karaoke after office bikin stress ilang?
-* Apakah tim yang sering bercanda lebih kompak?
-* Apakah meeting sore bikin ide lebih fresh?
-* Apakah sarapan penting banget sebelum kerja?
-* Apakah nonton bioskop rame-rame lebih seru daripada sendiri?
-* Apakah kopi hitam lebih mantap daripada kopi susu?
-* Apakah camilan gratis di kantor bikin tim bahagia?
-* Apakah kursi enak bisa bikin kerja lebih betah?
-* Apakah kerja remote dari cafe bikin lebih fokus?
-* Apakah WFH bikin orang lebih kreatif?
-* Apakah mic meeting harus selalu mute?
-* Apakah olahraga bareng tim wajib dicoba?
-* Apakah main board game bisa jadi bonding terbaik?
-* Apakah tim kecil lebih gampang solid?
-* Apakah video call bikin lebih deket daripada chat aja?
-* Apakah punya temen gosip di kantor itu penting?
-* Apakah retreat kantor lebih asik di gunung?
-* Apakah kerja di coworking space lebih seru?
-* Apakah makan bareng tim bikin lebih akrab?
-* Apakah punya temen sebangku bikin kerja lebih ringan?
-* Apakah tidur larut bikin ide lebih liar?
-* Apakah ngobrol receh bikin stress ilang?
-* Apakah punya temen kantor deket kaya punya keluarga kedua?
-* Apakah makan pedes bisa bikin happy?
-* Apakah tim cowok lebih rame daripada tim cewek?
-* Apakah main game online bareng tim itu bonding sah?
-* Apakah meeting singkat lebih efektif?
-* Apakah ngemil biskuit bikin ide keluar?
-* Apakah dress code casual bikin kerja lebih santai?
-* Apakah pulang on time tanda disiplin?
-* Apakah kerja overtime bikin lebih dihargai?
-* Apakah kopi sachet lebih enak daripada kopi cafe?
-* Apakah traveling bareng tim wajib tiap tahun?
-* Apakah games kecil di meeting bikin lebih semangat?
-* Apakah kue ultah kantor wajib ada lilin?
-* Apakah makan siang ramean bikin ngobrol makin cair?
-* Apakah jajan sore bikin happy?
-* Apakah musik upbeat bikin kerja lebih cepet?
-* Apakah tidur siang di meja kantor dosa kecil?
-* Apakah punya mentor bikin karier lebih cepet naik?
-* Apakah tim kreatif selalu rame?
-* Apakah retreat kantor harus outdoor?
-* Apakah bikin meme kantor itu bonding?
-* Apakah kerja bareng bestie bikin produktif?
-* Apakah main kartu di kantor itu normal?
-* Apakah brainstorming lebih enak sambil ngemil?
-* Apakah punya playlist tim bikin semangat kerja?
-* Apakah kopi dingin lebih nikmat siang-siang?
-* Apakah kerja tim kecil lebih efektif?
-* Apakah makan bakso tanpa sambel aneh?
-* Apakah makanan manis bikin fokus turun?
-* Apakah pagi Senin selalu berat?
-* Apakah hari Jumat selalu mood booster?
-* Apakah meeting Senin pagi perlu dihapus?
-* Apakah punya temen kantor buat curhat penting?
-* Apakah momen lucu kantor layak diabadikan?
-* Apakah nostalgia masa kecil bikin tim makin deket?
-* Apakah ngemil gorengan sore-sore wajib?
-* Apakah kerja sambil ngemut permen bikin ide lancar?
-* Apakah punya playlist relax bikin fokus?
-* Apakah jalan kaki bareng tim bikin lebih kompak?
-* Apakah ngobrol random bisa jadi solusi kerja?
-* Apakah punya temen satu meja bikin kerja betah?
-* Apakah makan sate lebih nikmat rame-rame?
-* Apakah kopi malam bikin lembur lancar?
-* Apakah weekend getaway bareng tim wajib?
-* Apakah group chat kantor bikin rame tapi perlu?
-* Apakah main truth or dare bareng tim itu bonding?
-* Apakah punya temen kantor yang suka bercanda itu penting?
-* Apakah kerja open space lebih seru daripada cubicle?
-* Apakah ngopi bareng sebelum meeting itu tradisi?
-* Apakah ngemil ciki bikin ide gila muncul?
-* Apakah foto bareng tim bikin lebih solid?
-* Apakah punya temen kantor buat nongkrong itu bonus?
-* Apakah kerja santai bikin hasil lebih bagus?
-* Apakah punya jatah cuti panjang bikin loyal?
-* Apakah main futsal lebih rame daripada badminton?
-* Apakah karaoke wajib ada lagu dangdut?
+* Lebih susah kolaborasi sama developer perfeksionis atau PM yang super detail?
+* Mending brainstorming ide bareng tim rame-rame atau fokus sendiri dulu baru share?
+* Lebih penting buat lo dapet feedback cepat dari user atau dari sesama desainer?
+* Kalau ada konflik desain, lo lebih pilih diskusi panjang sampai sepakat atau voting cepet?
+* Mending kerja bareng tim kecil yang kompak atau tim gede yang resource lengkap?
+* Lebih nyaman presentasi desain ke stakeholder langsung atau via prototipe interaktif?
+* Lo lebih suka dapet kritik jujur tapi pedas atau pujian manis tapi kurang membangun?
+* Mending dapet revisi mendadak di tengah sprint atau feedback telat setelah launch?
+* Lebih seru design sprint intens 5 hari atau iterasi panjang tapi santai?
+* Lo lebih pilih jadi problem solver di tim atau jadi orang yang jago nge-visual-in ide?
 * Lo lebih pilih nongkrong di warteg atau di kafe hits Jaksel?
 * Lo lebih rela kejebak macet Sudirman atau desek-desekan di KRL?
 * Lebih nyaman naik TransJakarta atau ojol pas hujan deres?
@@ -288,3 +209,44 @@
 * Mending ikut hype Citayam Fashion Week atau festival cosplay di Jakarta?
 * Lebih seru main Mobile Legends bareng temen atau PUBG rame-rame?
 * Lo lebih pilih ngidol K-Pop atau dukung band indie lokal?
+* Lebih enak dapet arahan jelas dari lead atau kebebasan eksplorasi tanpa batas?
+* Kalau ide lo ditolak, lo lebih pilih ngejelasin lagi atau langsung move on ke opsi lain?
+* Mending satu tim selalu sinkron jam kerja atau fleksibel asal hasilnya beres?
+* Lebih suka tim yang rajin dokumentasi atau tim yang lebih banyak action?
+* Kalau ada gap komunikasi, lo lebih pilih diselesaikan via chat, call, atau tatap muka?
+* Mending satu desainer handle end-to-end journey atau bagi-bagi spesialis (UX, UI, riset)?
+* Lebih nyaman kolaborasi sama stakeholder teknis (engineer) atau stakeholder bisnis?
+* Kalau hasil usability test gagal, lo lebih pilih iterasi cepat atau reset total desain?
+* Mending dapet partner developer yang kritis soal detail desain atau yang nurut semua aja?
+* Lebih seru kerja bareng tim yang sering debat ide atau tim yang cenderung harmonis?
+Lo lebih pilih jadi problem solver di tim atau jadi orang yang jago nge-visual-in ide?
+
+Mending ada satu orang UX researcher khusus atau semua anggota tim ikut riset?
+
+Lebih gampang align visi desain lewat Figma file detail atau workshop bareng whiteboard?
+
+Lo lebih suka daily standup singkat atau weekly catch-up yang lebih dalam?
+
+Kalau deadline mepet, lo lebih pilih cut scope fitur atau push jam kerja lebih lama?
+
+Mending satu style guide ketat atau desain fleksibel sesuai kreativitas tiap anggota?
+
+Lebih nyaman handle banyak stakeholder dengan ekspektasi beda-beda atau satu stakeholder tapi sering berubah pikiran?
+
+Lo lebih pilih kerja remote lintas zona waktu atau onsite bareng tiap hari?
+
+Mending punya tim yang jago riset tapi visual biasa aja, atau tim yang visual keren tapi minim riset?
+
+Lebih seru kolaborasi lintas divisi (marketing, sales, CS) atau fokus di tim produk aja?
+
+Kalau ada ide baru, lo lebih pilih prototyping cepat buat validasi atau diskusi panjang dulu di tim?
+* Lebih nyaman dapet brief proyek lengkap di awal atau update bertahap sepanjang jalan?
+* Kalau ada dua solusi desain sama bagusnya, lo lebih pilih A/B testing atau diskusi tim?
+* Mending dapet apresiasi langsung dari user atau pengakuan dari manajemen?
+* Lebih gampang dapet ide kreatif pas kerja bareng tim atau saat sendirian?
+* Kalau workload lagi numpuk, lo lebih pilih delegasi ke tim atau lembur sendiri?
+* Mending satu tim punya role jelas banget atau fleksibel saling backup?
+* Lebih seru dapet inspirasi desain dari kompetitor atau dari eksperimen internal?
+* Kalau ada feature creep, lo lebih pilih challenge PM atau adaptasi desain?
+* Mending tim kecil sering sync harian atau tim gede sync mingguan?
+* Lebih nyaman dapet feedback via comment Figma atau presentasi langsung di meeting?
